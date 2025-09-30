@@ -4,6 +4,8 @@ description: Objectives and Game Plan
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/a23fc5e74e6025cf869b725c13b95d74_session1.pdf
 file_size: 322674
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
