@@ -4,8 +4,6 @@ description: Session 3 - Objectives and Game Plan
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/4d5acaae1ff92b208f53bfd11bd633e7_session3.pdf
 file_size: 199411
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

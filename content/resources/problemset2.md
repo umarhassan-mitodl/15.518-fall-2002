@@ -4,8 +4,6 @@ description: Problem Set 2
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/1466d336a8288d718234a227052cbe71_problemset2.pdf
 file_size: 35667
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
